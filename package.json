@@ -17,10 +17,10 @@
     "deps/**"
   ],
   "dependencies": {
-    "bindings": "^1.5.0",
-    "prebuild-install": "^7.1.2"
+    "bindings": "^1.5.0"
   },
   "devDependencies": {
+    "prebuild-install": "^7.1.2",
     "chai": "^5.1.2",
     "cli-color": "^2.0.4",
     "fs-extra": "^11.2.0",
